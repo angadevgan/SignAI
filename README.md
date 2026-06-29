@@ -28,7 +28,6 @@ An AI-powered **American Sign Language (ASL) Recognition System** built using **
 
 ### Home Screen
 
-> Add your application screenshot below.
 
 ![Home](screenshots/home.png)
 
